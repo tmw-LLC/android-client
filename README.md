@@ -9,6 +9,7 @@
 This is an Android Application built on top of the [MifosX](https://mifosforge.jira.com/wiki/spaces/MIFOSX/overview) platform and purely written in Java. It has been designed for field officers to interact with the Mifos Platform directly from the Field. 
 
 Some **features** that are available in the app are:
+- Suport for the latest android version
 - Search of Clients, Client Details Viewing
 - Savings Accounts and Loan Accounts Viewing
 - Savings Account Transactions (Withdrawal & Deposit)
